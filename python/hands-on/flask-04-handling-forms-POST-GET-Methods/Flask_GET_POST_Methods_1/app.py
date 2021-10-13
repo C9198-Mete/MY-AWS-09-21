@@ -13,6 +13,14 @@ def index():
 # When the user comes directly "/total" path, "Since this is GET 
 # request, Total hasn't been calculated" string returns to them with "number.html" file
 @app.route('/total', methods=['GET', 'POST'])
-
+def total():
+    if request.method == "POST":
+        my_number1 = request.form.get("value1")
+        my_number2 = request.form.get("value2")
+        my_number3 = request.form.get("value3")
+        return render_template('number.html', total=int(my_number1) + int(my_number2) + int(my_number3))
+    else:
+        return render_template('number.html')    
 # Add a statement to run the Flask application which can be debugged.
-
+if __name__ == '__main__':
+    app.run(debug=True)
