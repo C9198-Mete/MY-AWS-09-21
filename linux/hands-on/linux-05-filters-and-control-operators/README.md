@@ -93,17 +93,6 @@ tac count.txt | tee temp.txt | tac
 ls
 cat temp.txt
 ```
-- Create a file named 'myfiles.txt' from the output of 'ls -l' command and display the .txt files.
-​
-```bash
-ls -l | tee myfiles.txt | find *.txt
-```
-- Check whether the myfiles.txt file created and display the content.
-​
-```bash
-ls
-cat myfiles.txt
-```
 
 **grep**
 ​
@@ -429,7 +418,7 @@ cat days.text && cat count.txt
 
 >**||**
 
-- The command shell interprets the (||) as the logical OR. This is opposite of logical AND. Means second command will execute only when first command will be a failure.
+- The command shell interprets the (||) as the logical `OR`. This is opposite of logical `AND`. Means second command will execute only when first command will be a failure.
 ​
 - Display days.txt or write 'clarusway' on the screen, then write 'one'.
 ​
