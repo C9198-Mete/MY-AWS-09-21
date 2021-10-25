@@ -56,7 +56,7 @@ sudo amazon-linux-extras install nginx1.12
 
 sudo systemctl start nginx
 
-4. Check from browser with public IP/DNS # sudo systemctl start nginx
+4. Check from browser with public IP/DNS
 
 
 5. Go to /usr/share/nginx/html folder.
