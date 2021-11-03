@@ -1,4 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
+
 Description: |
   This temp creates an ASG behind an ALB.  
 
@@ -57,7 +58,6 @@ Resources:
         - !GetAtt mySG.GroupId 
       Subnets: !Ref mySubnets 
       Type: application
-
 
   myASG:
     Type: AWS::AutoScaling::AutoScalingGroup
