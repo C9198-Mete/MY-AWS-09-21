@@ -16,7 +16,7 @@ At the end of the this hands-on training, students will be able to;
 
 - create a group
 
-- anatomy of the policy and attaching policy to the identities. 
+- anatomy of the policy and attaching policy to  identities. 
 
 - make troubleshooting about credentials
 
