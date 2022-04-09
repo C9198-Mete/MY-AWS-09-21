@@ -107,7 +107,7 @@ sudo resize2fs /dev/xvdf
 ```
 df -h
 ```
-- show that the data still persists on the newly enlarged volume.
+- show that the data still persists on the newly enlarged volume
 ```
 ls /mnt/mp1/
 ```
