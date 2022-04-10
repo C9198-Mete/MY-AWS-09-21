@@ -12,7 +12,7 @@ At the end of the this hands-on training, students will be able to;
 
 - install the Nginx Server on Amazon Linux 2 Instance.
 
-- configure the Nginx Server to run simple HTML page.
+- configure the Nginx Server to run simple HTML page
 
 - write a simple bash script to run the Web Server
 
