@@ -10,7 +10,7 @@ Purpose of the this hands-on training is to teach students how to take a snapsho
 
 - create images from EC2 instances on AWS console.
 
-- understand of difference between the image and the snapshot.
+- understand of difference between the image and the snapshot
 
 - create different types of AMI.
 
