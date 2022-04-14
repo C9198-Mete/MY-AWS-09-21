@@ -1,5 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: |
+  This temp creates by Matt
   
 Parameters:
   myKP:
@@ -97,7 +98,7 @@ Resources:
         SecurityGroupIds:
           - !GetAtt mySecGrp.GroupId
         UserData: !Base64 |
-            #!/bin/bash
+          #!/bin/bash
           #update os
           yum update -y
           #install apache server
@@ -159,5 +160,12 @@ Resources:
 
       VpcId: !Ref myVPC
 
-      
-Outputs:
+
+Outputs: 
+
+  AppUrl:
+    Description: Url of the ALB
+    Value: !Join 
+      - ""
+      - - "http://"
+        - !GetAtt myALB.DNSName
