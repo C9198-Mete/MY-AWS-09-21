@@ -10,9 +10,9 @@ At the end of the this hands-on training, students will be able to;
 
 - create and configure Auto Scaling Group with Launch Template.
 
-- add policy to Auto Scaling Group.
+- add policy to Auto Scaling Group
 
-- add Cloudwatch alarm.
+- add Cloudwatch alarm
 
 ## Outline
 
