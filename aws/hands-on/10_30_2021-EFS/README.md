@@ -199,7 +199,7 @@ cat example.txt
 
 -  Connect to EC2-2 with SSH.
 ```text
-ssh -i .....pem ec2-user@..................
+ssh -i .....pem ec2-user@.................
 ```
 - Update the installed packages and package cache on your instance.
 
