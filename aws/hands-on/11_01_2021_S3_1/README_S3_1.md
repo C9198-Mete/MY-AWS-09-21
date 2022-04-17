@@ -6,17 +6,17 @@ Purpose of the this hands-on training is to instruct students how to to create a
 
 At the end of the this hands-on training, students will be able to;
 
-- create a S3 bucket,
+- create a S3 bucket
 
-- upload and customize files to S3 bucket,
+- upload and customize files to S3 bucket
 
 - deploy static Website on S3,
 
 - set the S3 bucket policies,
 
-- configure S3 bucket with versioning options,
+- configure S3 bucket with versioning options
 
-- monitor logging records,
+- monitor logging records
 
 
 ## Outline
