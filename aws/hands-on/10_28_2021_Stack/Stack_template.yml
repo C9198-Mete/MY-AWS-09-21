@@ -45,7 +45,7 @@ Resources:
   mylistener:
     Type: AWS::ElasticLoadBalancingV2::Listener
     Properties:
-      DefaultActions: # Required
+      DefaultActions: # Require
         - Type: forward
           TargetGroupArn: !Ref myTG
       LoadBalancerArn: !Ref myALB # Required
