@@ -10,7 +10,7 @@ At the end of the this hands-on training, students will be able to;
 
 - learn how to connect to RDS via workbench
 
-- learn how to manipulate RDS Instance.
+- learn how to manipulate RDS Instance
 
 ## Outline
 
