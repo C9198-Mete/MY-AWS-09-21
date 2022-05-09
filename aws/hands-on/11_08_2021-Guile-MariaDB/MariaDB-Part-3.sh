@@ -6,7 +6,7 @@ mysql -u clarususer -p
 # Show databases for clarususer.
 SHOW DATABASES;
 
-# Select the database clarusdb.
+# Select the database clarusdb
 USE clarusdb;
 
 # Create a table named offices.
