@@ -8,7 +8,7 @@ At the end of the this hands-on training, students will be able to;
 
 - install MariaDB Client on Ubuntu Instance.
 
-- learn how to take a snapshot from RDS DB Instance.
+- learn how to take a snapshot from RDS DB Instance
 
 - recover RDS DB Instance from manual snapshot.
 
