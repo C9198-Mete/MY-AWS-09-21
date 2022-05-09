@@ -7,7 +7,7 @@
 # Security Group
 #   - SSH           -----> 22    -----> Anywhere
 
-# Connect to EC2 instance with SSH.
+# Connect to EC2 instance with SSH
 
 # Update instance.
 sudo apt update && sudo apt upgrade -y
