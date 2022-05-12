@@ -10,7 +10,7 @@
 
 - Set Partition Key as `Id` and select the type of key as `Number`. No Sort Key.
 
-- Leave other settings default.
+- Leave other settings default
 
 - Click `Create`.
 
