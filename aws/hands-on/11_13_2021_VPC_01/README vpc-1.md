@@ -10,7 +10,7 @@ At the end of the this hands-on training, students will be able to;
 
 - learn how to create subnet,
 
-- learn how to set route tables as public and private,
+- learn how to set route tables as public and private
 
 
 ## Outline

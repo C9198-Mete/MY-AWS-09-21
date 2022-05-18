@@ -82,3 +82,14 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-12T19:28:25.132Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
 {"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-12T19:28:25.137Z","msg":"Agent state changed from connected to started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-12T19:28:26.152Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":50,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.645Z","msg":"Agent endpoint metric_data returned 409 status. Restarting.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.648Z","msg":"Restarting collector.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.649Z","msg":"Shutting down collector.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.977Z","msg":"Agent state changed from started to disconnected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.978Z","msg":"Disconnected from New Relic; clearing run ID BYGVFcHoIk7PAKq7LgEKQDtifWA4AAgBIQArJQEAADAUiBXAVAIEAQqHpAMABTguOS4xAARNZXRlAAlsc3AtYWdlbnQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:25.978Z","msg":"Agent state changed from disconnected to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:26.967Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:26.967Z","msg":"Connected to collector-1.staging-collectors.newrelic.com:443 with agent run ID BRMljHzS5Oj-AKq7LgEKQDtigp70AAgBIQArJQEAADAUiBXAVAIEAQqHpAMABTguOS4xAARNZXRlAAlsc3AtYWdlbnQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:26.967Z","msg":"Reporting to: https://staging.newrelic.com/accounts/11189038/applications/17467300","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:26.968Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"Mete","pid":12308,"time":"2022-05-16T18:57:26.975Z","msg":"Agent state changed from connected to started."}
