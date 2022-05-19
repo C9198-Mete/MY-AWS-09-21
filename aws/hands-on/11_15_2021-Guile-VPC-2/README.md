@@ -6,7 +6,7 @@
 
 - Launch two Instance. One is in Private Subnet-1b, the other one is in Public Subnet-1b
 
-- Configure Private instance.
+- Configure Private instance
 
 ```text
 AMI             : Amazon Linux 2
