@@ -5,7 +5,8 @@
 ## STEP 1 : Prep---> Launching Instances
 
 
-- Launch two Instances. First instance will be in "clarus-az1a-private-subnet" of "clarus-vpc-a",and the other one will be in your "Default VPC". 
+- Launch two Instances. First instance will be in "clarus-az1a-private-subnet" of "clarus-vpc-a",and the other one will be in your "Default VPC"
+
 
 - In addition, since the private EC2 needs internet connectivity to set user data, we also need NAT Gateway.
 
