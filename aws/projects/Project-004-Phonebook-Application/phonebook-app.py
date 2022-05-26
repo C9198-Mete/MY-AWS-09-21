@@ -120,7 +120,7 @@ def find_records():
         return render_template('index.html', show_result=False, developer_name='Serdar')
 
 
-# Write a function named `add_record` which inserts new record to the database using `GET` and `POST` methods,
+# Write a function named `add_record` which inserts new record to the database using `GET` and `POST` methods
 # using template files named `add-update.html` given under `templates` folder
 # and assign to the static route of ('add')
 @app.route('/add', methods=['GET', 'POST'])
