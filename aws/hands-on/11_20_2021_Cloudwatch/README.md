@@ -492,7 +492,7 @@ log_group_name = ErrorLog
 :wq
 ```
 
-- to activate the new configuration, stop and start the "awslogsd".
+- to activate the new configuration, stop and start the "awslogsd"
 
 ```
 sudo systemctl stop awslogsd
