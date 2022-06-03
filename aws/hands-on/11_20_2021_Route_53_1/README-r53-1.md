@@ -4,7 +4,7 @@ Purpose of the this hands-on training is to creating a DNS record sets
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, students will be able to
 
 - create record sets
 
@@ -14,7 +14,7 @@ At the end of the this hands-on training, students will be able to;
 ## Outline
 
 - Part 1 - Prep.
-- Part 2 - Getting familiar with Public Hosted Zone, SOA, NS.  
+- Part 2 - Getting familiar with Public Hosted Zone, SOA, NS
 - Part 3 - Creating A record set
 - Part 4 - Creating CNAME record set
 - Part 4 - Creating an Alias record set
