@@ -5,7 +5,7 @@ Purpose of the this hands-on training is to creating a DNS record sets and imple
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, students will be able to
 
 - create record sets
 
