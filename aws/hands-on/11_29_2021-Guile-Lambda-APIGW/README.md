@@ -4,7 +4,7 @@ The topics for this hands-on session will be AWS Lambda, function as a service (
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, students will be able to
 
 - Create a S3 bucket.
 
