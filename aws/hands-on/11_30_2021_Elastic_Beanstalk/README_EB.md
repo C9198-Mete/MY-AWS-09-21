@@ -1,10 +1,10 @@
 ## Part 1 - Launch an Application
 
-- First download the php-v1.zip and php-v2.zip files from GitHub and share them via Slack.
+- First download the php-v1.zip and php-v2.zip files from GitHub and share them via Slack
 
 - Go to `Elastic Beanstalk` service on AWS console.
 
-- Click `Create Application`.
+- Click `Create Application`
 
 - Enter your application name `MySampleApp`.  (You can also add Application tags if you need.)
 
